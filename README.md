@@ -2,6 +2,8 @@
 
 An incredibly stupid BASH script I wrote in an evening to cycle through (at the time of writing) `cmatrix`, `htop`, and `sl`. 
 
+![GIF of the script](https://raw.githubusercontent.com/NaCl10/cycle-screensaver/main/.readme-images/demo.gif)
+
 ## Usage
 
 Install dependencies  
