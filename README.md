@@ -33,3 +33,6 @@ If you can think of another screensaver-like program that should be implemented,
 ## Why isn't asciiquarium in here?
 
 It's an absolute BITCH and refuses to do things like die when sent any sort of kill signal, properly clear itself, etc. ([I'm pretty sure I summoned a terminal-based deamon several times while attempting to implement it](https://media.discordapp.net/attachments/593483503241396287/783188991913492510/62845586916__4F6F625F-7A13-45F4-908A-263BCD25B2BE.MOV)) If you can get it working, open an issue or a PR. I'll be happy to implement it.
+
+## Why isn't pipes.sh in here?
+For the same damn reason as above. Why do these programs hate me so much?
