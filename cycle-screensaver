@@ -3,7 +3,7 @@
 while : # I'm aware that while : is ugly, but it runs just that tiny bit faster and uses just that tiny bit less RAM.
 do
     # Start in the background so the script will keep running
-    cmatrix &
+    cmatrix -a &
     sleep 5
     killall -INT cmatrix
     htop &
