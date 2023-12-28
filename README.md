@@ -28,7 +28,7 @@ From there, you may move it to a folder that's somewhere on $PATH if you like. `
 
 Open a pull request! I'm happy to accept any useful contributions. That's what open-source is for!
 
-If you can think of another screensaver-like program that should be implemented, fork it, implement it, and open a PR. I'd love to add some more programs, I just can't think of any off the top of my head. (See below for some notes on asciiquarium)
+If you can think of another screensaver-like program that should be implemented, fork it, implement it, and open a PR. I'd love to add some more programs, I just can't think of any off the top of my head. (See below for some notes on asciiquarium and pipes.sh)
 
 ## Why isn't asciiquarium in here?
 
