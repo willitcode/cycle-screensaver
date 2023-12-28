@@ -12,5 +12,5 @@ do
     # htop doesn't automatically clear itself when you close it (at least on TTYs), so we have to clear for it)
     clear
     # sl only runs for so long and then clears itself, so we don't need to sleep/kill or clear
-    sl -aF # -aF shows people yelling help out of the windows of the train and makes it fly (man sl)
+    sl -aeF # -aeF shows people yelling help out of the windows of the train, allows you to exit it with ctrl+c, and makes the train fly (man sl)
 done
